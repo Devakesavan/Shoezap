@@ -132,7 +132,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **[PriyaDharshini22-2005](https://github.com/PriyaDharshini22-2005)**
 - **[Abishek Arun](https://github.com/Abishekmrgstar)**
 - **[Dhatchayani2006](https://github.com/Dhatchayani2006)**
-- **[Karthikeyan](https://github.com/karthikeyan261222)**
+- **[Karthikeyan S](https://github.com/karthikeyan261222)**
 ## Contact
 
 For any inquiries, please contact us at [byteknightsbk24@gmail.com](mailto:byteknightsbk24@gmail.com)
