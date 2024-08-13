@@ -130,9 +130,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ### Collaborators
 
 - **[PriyaDharshini22-2005](https://github.com/PriyaDharshini22-2005)**
-- **[Devakesavan](https://github.com/Devakesavan)**
+- **[Abishek Arun](https://github.com/Abishekmrgstar)**
 - **[Dhatchayani2006](https://github.com/Dhatchayani2006)**
-- **[karthikeyan261222](https://github.com/karthikeyan261222)**
+- **[Karthikeyan](https://github.com/karthikeyan261222)**
 ## Contact
 
 For any inquiries, please contact us at [byteknightsbk24@gmail.com](mailto:byteknightsbk24@gmail.com)
