@@ -49,7 +49,7 @@ def chat():
 
 @app.route('/run-script', methods=['POST'])
 def run_script():
-    script_path = r'Path'
+    script_path = r'C:\Users\HP\Downloads\Shoezapfinale\Gemini-Bot\text2image.py'
     try:
         # Run the script
         subprocess.run(['python', script_path], check=True)
